@@ -1,0 +1,7 @@
+firebase database ek database h jis mai hum apne users ka data all information Document ki shakal mai rakhty hn
+or phir pehly collection hoti h phir document hota h or phir data hota h
+or agr mai chati hu k meri jo Users collection h osmai bhi user ki or koi detail ho to pehly users/document/Purchases aise hoga
+fireStore hamesha apna Data document mai rakhta h "collection=>Document=>then collection"
+Pehly maine collection ka methde use kiya tha collection ka reference dene k liye 
+an mai an mujy document ka reference dena h jis mai getdoc and doc function h
+agr mujy apne document ki id nhi pata bs ye pata h k ismai kiya h to mai osko query and where function se use kro gi
